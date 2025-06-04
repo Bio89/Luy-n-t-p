@@ -5,3 +5,9 @@ p{
 #mm{
     color: blue;
 }
+p:first-child{
+    color: green;
+}
+body{
+    background-color: black;
+}
